@@ -1,7 +1,9 @@
 # EMOTIONALBOIS2001
 
 ## ABOUT
-This is temporarily a stash for files related to my project, currently masquerading under the title of EMOTIONALBOIS2001. EMOTIONALBOIS2001 is planned to be a collection of visualized data created via sentiment and emotion analysis of lyrics. Hopefully by the end of the process we will find out which artist (within the scope of the project, currently limited to the Hip Hop genre) is the saddest, which is the happiest, and so on ad infinitum.
+This is temporarily a stash for files related to my project, currently masquerading under the title of EMOTIONALBOIS2001. 
+
+EMOTIONALBOIS2001 is planned to be a collection of visualized data created via sentiment and emotion analysis of lyrics. Hopefully by the end of the process we will find out which artist (within the scope of the project, currently limited to the Hip Hop genre) is the saddest, which is the happiest, and so on ad infinitum.
 
 ## CONTENT
 * `master_lyrics_dir`
