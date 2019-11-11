@@ -36,3 +36,6 @@ For sentiment/emotion analysis I'm looking at **textblob**, though that's to be 
 
 ## LICENSE
 You can steal this when it's finished, but do not touch for now plz.
+
+## EMOTIONALBOIS2001
+![EMOTIONALBOIS2001](https://github.com/joshnatis/EMOTIONALBOIS2001/blob/master/EMBS2001c.jpg)
