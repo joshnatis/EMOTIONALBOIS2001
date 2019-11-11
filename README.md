@@ -24,7 +24,10 @@ EMOTIONALBOIS2001 is planned to be a collection of visualized data created via s
   + is also able to take a .txt file of artists and scrape their lyrics into a directory
   + `master_lyrics_dir` was generated with this script
   
-Notes: Don't steal my API token, it's free, just make your own. `lyricViewerInterface.py` and `lyricDownloaderInterface,py` are mostly identical scripts with some additional functions added in the latter -- I will later combine them under an interface that lets you pick what functionality you want to use (and I'll allow for user input, rather than hardcoded values).
+**Notes:**
+Don't steal my API token, it's free, just make your own.
+
+`lyricViewerInterface.py` and `lyricDownloaderInterface,py` are mostly identical scripts with some additional functions added in the latter -- I will later combine them under an interface that lets you pick what functionality you want to use (and I'll allow for user input, rather than hardcoded values).
 
 ## SOFTWARE
 **Genius API, Wikipedia API, Python3, JSON, urllib, Beautiful Soup**
