@@ -17,7 +17,7 @@ EMOTIONALBOIS2001 is planned to be a collection of visualized data created via s
    + `artists.txt` was created via this script, plus a few manual additions
    
 * `lyricViewerInterface.py`
-  + allows you to search Genius for an artists, then pick a song for which you want to view the lyrics
+  + allows you to search Genius for an artist, then pick a song for which you want to view the lyrics
   
 * `lyricDownloaderInterface.py`
   + provides a grungy interface to search Genius for artists and download their lyrics
