@@ -16,18 +16,16 @@ EMOTIONALBOIS2001 is planned to be a collection of visualized data created via s
   + scrapes Wikipedia's Hip Hop artist page for artist names
    + `artists.txt` was created via this script, plus a few manual additions
    
-* `lyricViewerInterface.py`
-  + allows you to search Genius for an artist, then pick a song for which you want to view the lyrics
-  
-* `lyricDownloaderInterface.py`
-  + provides a grungy interface to search Genius for artists and download their lyrics
-  + is also able to take a .txt file of artists and scrape their lyrics into a directory
+* `lyricsInterface.py`
+  + provides a grungy interface to search Genius for artists and view or download their song lyrics
+  + is also able to take a .txt file of artists and scrape their lyrics into directories
   + `master_lyrics_dir` was generated with this script
-  
+
 **Notes:**
+
 Don't steal my API token, it's free, just make your own.
 
-`lyricViewerInterface.py` and `lyricDownloaderInterface,py` are mostly identical scripts with some additional functions added in the latter -- I will later combine them under an interface that lets you pick what functionality you want to use (and I'll allow for user input, rather than hardcoded values).
+TODO: Change scraping mechanism to scrape artists first, then songs once user picks an artist (rather than scraping everything at the start, resulting in a long pause)
 
 ## SOFTWARE
 **Genius API, Wikipedia API, Python3, JSON, urllib, Beautiful Soup**
