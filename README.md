@@ -28,7 +28,7 @@ Don't steal my API token, it's free, just make your own.
 TODO: Change scraping mechanism to scrape artists first, then songs once user picks an artist (rather than scraping everything at the start, resulting in a long pause)
 
 ## SOFTWARE
-**Genius API, Wikipedia API, Python3, JSON, urllib, Beautiful Soup**
+**Genius API, Wikipedia API, Python 3, JSON, urllib, Requests, Beautiful Soup**
 
 For sentiment/emotion analysis I'm looking at **textblob**, though that's to be determined. To generate tripply visuals I'll likely have to seek out another library (**mathplotlib**?).
 
